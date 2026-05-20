@@ -1,0 +1,16 @@
+torch
+torchvision
+transformers
+timm
+pandas
+numpy
+scikit-learn
+openpyxl
+pillow
+tqdm
+opencv-python
+pycocotools
+matplotlib
+sentencepiece
+protobuf
+accelerate

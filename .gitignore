@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+outputs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+Thumbs.db
+.DS_Store

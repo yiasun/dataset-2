@@ -1,0 +1,11 @@
+numpy
+pandas
+openpyxl
+opencv-python
+pycocotools
+tqdm
+matplotlib
+segment-anything
+openmim
+mmengine
+mmdet
