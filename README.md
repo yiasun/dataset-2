@@ -92,6 +92,10 @@ python -m pip install -r requirements.txt
 
 For Task 3, use the MMDetection environment described in `task3/requirements-task3.txt`. A typical Linux GPU setup uses `mim`, `mmdet`, `mmengine`, `mmcv`, `pycocotools`, and the optional Segment Anything dependency for SAM refinement.
 
+## Released Checkpoint
+
+We provide a lightweight Task 1 HUSIC scene-classification checkpoint for reproducible inference. See `models/` for the prediction script and class-index mapping. The `.pth` checkpoint is distributed through GitHub Releases to keep this repository lightweight.
+
 ## Task 1: Urban Scene Semantic Classification
 
 **Goal:** predict the 10-way HUSIC scene label from an image.
