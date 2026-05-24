@@ -7,8 +7,8 @@ tags:
   - image-classification
   - resnet
 datasets:
-  - Yiwei-Ou/Urban-ImageNet
-license: cc-by-nc-4.0
+  - Urban-ImageNet
+license: cc-by-nc-sa-4.0
 ---
 
 # Urban-ImageNet Task 1 Scene Classification Checkpoint
