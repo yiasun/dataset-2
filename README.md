@@ -94,7 +94,7 @@ For Task 3, use the MMDetection environment described in `task3/requirements-tas
 
 ## Released Checkpoint
 
-We provide a lightweight Task 1 HUSIC scene-classification checkpoint for reproducible inference. See `models/` for the prediction script and class-index mapping. The `.pth` checkpoint is distributed through GitHub Releases to keep this repository lightweight.
+We provide a lightweight Task 1 HUSIC scene-classification checkpoint for reproducible inference. See `models/` for the checkpoint, prediction script, and class-index mapping. The `.pth` file is tracked with Git LFS to keep the regular Git history lightweight.
 
 ## Task 1: Urban Scene Semantic Classification
 

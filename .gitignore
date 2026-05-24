@@ -5,6 +5,7 @@ __pycache__/
 outputs/
 checkpoints/
 *.pth
+!models/*.pth
 *.pt
 *.ckpt
 *.zip

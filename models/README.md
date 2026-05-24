@@ -19,7 +19,7 @@ This folder contains inference utilities for the released **Urban-ImageNet Task 
 
 | File | Description |
 |---|---|
-| `Task 1_Urban Scene Classification.pth` | PyTorch checkpoint for the Task 1 scene classifier. Distributed as a GitHub Release asset, not committed directly to the repository. |
+| `Task 1_Urban Scene Classification.pth` | PyTorch checkpoint for the Task 1 scene classifier, tracked with Git LFS in the GitHub repository. |
 | `Task 1_Class_to_Index.xlsx` | Mapping between HUSIC class names and integer label indices. |
 | `Task 1_Prediction.py` | Standalone inference script for image files or folders. |
 | `requirements.txt` | Minimal Python dependencies for inference. |
@@ -51,11 +51,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Download the checkpoint from the GitHub Release page and place it in this `models/` folder:
-
-```text
-Task 1_Urban Scene Classification.pth
-```
+When cloning the GitHub repository, install Git LFS first if you want the checkpoint to be downloaded automatically.
 
 Run prediction on a single image:
 
