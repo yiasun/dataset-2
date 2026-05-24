@@ -90,10 +90,14 @@ This initial model release focuses on Task 1 because it is compact, directly reu
 ## Citation
 
 ```bibtex
-@article{urbanimagenet2026,
-  title   = {Urban-ImageNet: A Large-Scale Multi-Modal Dataset for Urban Space Perception Benchmarking},
-  author  = {Anonymous Authors},
+@article{ou2026urbanimagenet,
+  title   = {Urban-ImageNet: A Large-Scale Multi-Modal Dataset and Evaluation Framework for Urban Space Perception},
+  author  = {Ou, Yiwei and Cheung, Chung Ching and Ang, Jun Yang and Ren, Xiaobin and Sun, Ronggui and Gao, Guansong and Zhao, Kaiqi and Manfredini, Manfredo},
   journal = {arXiv preprint arXiv:2605.09936},
-  year    = {2026}
+  year    = {2026},
+  eprint  = {2605.09936},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url     = {https://arxiv.org/abs/2605.09936}
 }
 ```
